@@ -5,4 +5,7 @@ permalink: /about/
 icon: octicon-heart
 ---
 
-自我介绍什么的，最讨厌了！
+このサイトは以下の３人で運営されています。
+* Non
+* れぇなん
+* ののの
