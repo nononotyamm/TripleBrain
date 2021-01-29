@@ -138,12 +138,15 @@ categories: markdown
 `/static/img/`に入れて
 
 ```
-![test image](/static/img/bitmap.jpg)
+![bitmap][bitmap]
+
+[bitmap]: {*{"/bitmap.jpg" | prepend: site.imgrepo }*} ←*を消す
 ```
 
 とすることで、以下のように挿入できる。```(/static/img/bitmap.jpg)```の部分をURLにすることで外部の画像も貼り付け可能。
 
-![test image](/static/img/bitmap.jpg)
+![bitmap][bitmap]
 
+[bitmap]: {{"/bitmap.jpg" | prepend: site.imgrepo }}
 
 
