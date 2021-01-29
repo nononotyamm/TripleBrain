@@ -143,7 +143,13 @@ categories: markdown
 [bitmap]: {*{"/bitmap.jpg" | prepend: site.imgrepo }*} ←*を消す
 ```
 
-とすることで、以下のように挿入できる。```(/static/img/bitmap.jpg)```の部分をURLにすることで外部の画像も貼り付け可能。
+とすることで、以下のように挿入できる。
+
+```
+![image-title](画像のURL)
+```
+
+URLにすることで外部の画像も貼り付け可能。
 
 ![bitmap][bitmap]
 
