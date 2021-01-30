@@ -156,4 +156,9 @@ URLにすることで外部の画像も貼り付け可能。
 
 [bitmap]: {{"/bitmap.jpg" | prepend: site.imgrepo }}
 
+<br><br>
 
+---
+# ここまでのスクリプト
+
+<a href="https://raw.githubusercontent.com/AriNie/TripleBrain/master/_posts/2021-1-28-about-posting.md">このページのスクリプト（Github）</a>
