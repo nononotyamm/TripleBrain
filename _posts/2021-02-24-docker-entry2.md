@@ -3,7 +3,7 @@ layout: post
 title: Docker入門２
 tags: docker
 categories: docker
-publish: false
+published: false
 ---
 
 

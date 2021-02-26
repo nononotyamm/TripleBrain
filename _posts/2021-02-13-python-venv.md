@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Venvについて
-tags: python command
+tags: python venv command
 categories: python
 ---
 
