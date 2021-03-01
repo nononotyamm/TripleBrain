@@ -3,7 +3,7 @@ layout: post
 title: ABC893 D問題解説 # ページタイトル
 tags: atcoder algorithm python # タグ
 categories: atcoder # カテゴリ. AtCoderの解説記事は atcoder で.
-published: false # ここは必ずTrueにしてください.
+published: false # ここは必ずtrueにしてください.
 ---
 
 
