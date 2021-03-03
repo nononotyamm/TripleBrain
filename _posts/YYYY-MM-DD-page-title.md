@@ -13,3 +13,6 @@ published: false # ここは必ずtrueにしてください.
 Author: ののの　<!-- 自分の名前 -->
 
 <!-- ↓↓↓↓↓ 記事内容 ↓↓↓↓↓ -->
+
+
+[foobarpiyopiyo]:{{"/foo/bar/piyo/piyo"|prepend:site.url}}
